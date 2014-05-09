@@ -9,6 +9,7 @@ This is useful for downsampling large dataseries in order to be able to plot a r
 
 	var downsampler = require("downsample-lttb");
 	
+	//provide a series as an array of [x,y] pairs
 	var dummyDataSeries = [[1,2],[2,2],[3,3],[4,3],[5,6],[6,3],[7,3],[8,5],[9,4],[10,4],[11,1],[12,2]];
 	var downsampledSeries = downsampler.processData(dummyDataSeries, 3);
 	
