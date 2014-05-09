@@ -1,0 +1,23 @@
+{
+  "name": "downsample-lttb",
+  "version": "0.0.1",
+  "description": "Largest Triangle Three Buckets downsample algorithm by Sveinn Steinarsson reshaped into a node.js module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pingec/downsample-lttb.git"
+  },
+  "keywords": [
+    "Largest-Triangle-Three-Buckets",
+    "downsampling",
+    "node.js"
+  ],
+  "author": "Matej Drolc <matej.drolc@pingec.si> (http://pingec.si)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pingec/downsample-lttb/issues"
+  }
+}
