@@ -17,6 +17,8 @@ Usage example
 	
 	//provide a series as an array of [x,y] pairs
 	var dummyDataSeries = [[1,2],[2,2],[3,3],[4,3],[5,6],[6,3],[7,3],[8,5],[9,4],[10,4],[11,1],[12,2]];
+
+	//pass the series and number of desired datapoints
 	var downsampledSeries = downsampler.processData(dummyDataSeries, 3);
 	
 	console.log(downsampledSeries);	
