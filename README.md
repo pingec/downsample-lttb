@@ -3,9 +3,15 @@ downsample-lttb
 
 Largest Triangle Three Buckets downsample algorithm by Sveinn Steinarsson reshaped into a node.js module.
 
-This is useful for downsampling large dataseries in order to be able to plot a representative chart with a manageable amount of data points.
+This is useful for downsampling large dataseries in order to be able to plot a representative chart shape with a manageable amount of data points.
 	
-#Code example
+#Instructions
+
+Install with
+
+	npm install git+https://github.com/pingec/downsample-lttb.git
+
+Usage example
 
 	var downsampler = require("downsample-lttb");
 	
