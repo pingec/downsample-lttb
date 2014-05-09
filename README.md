@@ -17,10 +17,10 @@ This is useful for downsampling large dataseries in order to be able to plot a r
 
 #Downsampled chart series examples
 ###\# of samples: 8614  downsampled to: 500
-![500 datapoints](screenshots/500.PNG)
+![500 datapoints](https://raw.githubusercontent.com/pingec/downsample-lttb/master/screenshots/500.png)
 ###\# of samples: 8614  downsampled to: 200
-![200 datapoints](screenshots/200.PNG)
+![200 datapoints](https://raw.githubusercontent.com/pingec/downsample-lttb/master/screenshots/200.png)
 ###\# of samples: 8614  downsampled to: 100
-![100 datapoints](screenshots/100.PNG)
+![100 datapoints](https://raw.githubusercontent.com/pingec/downsample-lttb/master/screenshots/100.png)
 ###\# of samples: 8614  downsampled to: 50
-![50 datapoints](screenshots/50.PNG)
+![50 datapoints](https://raw.githubusercontent.com/pingec/downsample-lttb/master/screenshots/50.png)
